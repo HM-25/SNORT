@@ -24,4 +24,4 @@ alert icmp any any <> any any (msg: "ICMP packet detected"; sid: 100001; rev: 1;
 
 ## About
 
-Personal notes written while studying network security monitoring. Official docs: [snort.org](https://www.snort.org/documents)
+Personal notes written while studying network security monitoring, following the TryHackMe [Snort](https://tryhackme.com/r/room/snort) room (its cheatsheet is available there). Official docs: [snort.org](https://www.snort.org/documents)
